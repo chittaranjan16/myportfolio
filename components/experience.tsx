@@ -5,11 +5,14 @@ import { Badge } from "@/components/ui/badge"
 
 const experiences = [
   {
-    title:  "Demo Intern",
-    company: "add it",
-    period: "May 2025 - Present",
+    title:  "Android Developer Virtual Intern",
+    company: "Google x Eduskills",
+    period: "Apr 2024 - June 2024",
     responsibilities: [
-      "Working on frontend development."
+      "Successfully completed a 10-week Android Developer Virtual Internship.",
+    "Worked on building Android apps using Kotlin and Android Studio.",
+    "Learned core development concepts such as UI design, activity lifecycle, and mobile architecture.",
+    "Supported by India Edu Program, AICTE, EduSkills in collaboration with Google."
     ],
     skills: ["React", "TypeScript", "Material UI", "SCSS"],
   },
